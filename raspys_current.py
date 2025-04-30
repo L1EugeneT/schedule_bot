@@ -12,7 +12,7 @@ import time
 from datetime import datetime, date, timedelta
 
 # === Настройки ===
-API_TOKEN = '7579803687:AAH3bWG8Ydy38h2hoCmZtBraa5PBGJiFNq0'  # Мой токен
+API_TOKEN = '8024432635:AAFOqVwVzxl85g3pS5mWRubmRTXQUGp0QEk'  # Мой токен
 START_DATE = date(2024, 9, 1) 
 
 # === Создание бота и диспетчера ===
